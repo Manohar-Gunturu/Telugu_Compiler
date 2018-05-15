@@ -1,5 +1,5 @@
 # T_Compiler
-## Compiler for a programming language having syntax in telugu speaking language
+## Compiler for a programming language having keywords in telugu speaking language
 
 Download T_Compiler from https://drive.google.com/open?id=1Yl7MMT7QWp_ij6s2qr77JY45PAMpGYOv
 
@@ -8,7 +8,7 @@ Open cmd and navigate to T_compiler.exe folder, and then just run t_compiler in 
 ![alt text](https://raw.githubusercontent.com/Manohar-Gunturu/Telugu_Compiler/master/sample.png)
 
 
-This was compiler built from scratch, without any tools. 
+## This was built from scratch, without any tools.
 
 ## Below are the supported features
  - Integers are supported with keyword sankhya
@@ -21,7 +21,7 @@ This was compiler built from scratch, without any tools.
 
 Example program
 
-## find is a number is even or odd
+## To check if a number is even or odd
           
           sankhya iseven(sankhya num){
             ayite(  num % 2 == 0  ) appudu{   // if statement
@@ -60,7 +60,7 @@ Example program
            };
           
 
-## Program the student with maximum marks
+## Program to find student with maximum marks
 
              //class declaration
              samuham Object{
@@ -89,3 +89,5 @@ Example program
                 max_marks_id = findMax(b1,b2); 
                 mudrinchu(max_marks_id);
              };
+
+
