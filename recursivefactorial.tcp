@@ -1,0 +1,16 @@
+sankhya factorial(sankhya n){
+  sankhya result;
+  ayite(n == 1) appudu {
+    tirigi (1);
+  } lekapote {
+   result = factorial(n - 1) * n;
+   tirigi (result);
+  };
+};
+
+prarambham{
+   sankhya result;
+   chaduvu(result);
+   result = factorial(result);
+   mudrinchu(result);
+};
