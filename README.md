@@ -1,14 +1,12 @@
 # T_Compiler
 ## Compiler for a programming language having keywords in telugu speaking language
+## This was built from scratch in C and C++, without any tools, as guided by professor Joey Paquet, Concordia University. 
 
 Download T_Compiler from https://drive.google.com/open?id=1Yl7MMT7QWp_ij6s2qr77JY45PAMpGYOv
 
 Open cmd and navigate to T_compiler.exe folder, and then just run t_compiler in cmd.  
 
 ![alt text](https://raw.githubusercontent.com/Manohar-Gunturu/Telugu_Compiler/master/sample.png)
-
-
-## This was built from scratch, without any tools.
 
 ## Below are the supported features
  - Integers are supported with keyword sankhya
