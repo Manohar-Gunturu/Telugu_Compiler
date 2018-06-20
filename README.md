@@ -11,6 +11,7 @@ Open cmd and navigate to T_compiler.exe folder, and then just run t_compiler in 
 ## Below are the supported features
  - Integers are supported with keyword sankhya
  - classes are supported with keyword samuham
+ - if and else keywords are supported by ayite and lekapote keywords respectively.
  - int arrays are supported
  - No strings, sorry
  - 0 is treated as false, and 1 as true
